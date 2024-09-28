@@ -1,0 +1,39 @@
+{
+    "equipment": "664115f68b8ae858750609b3",
+    "fastPanel": {},
+    "hideoutAreaStashes": {},
+    "items": [{
+            "_id": "664115f68b8ae858750609b3",
+            "_tpl": "55d7217a4bdc2d86028b456d"
+        }, {
+            "_id": "63db64cbf9963741dc0d741f",
+            "_tpl": "6401c7b213d9b818bf0e7dd7"
+        }, {
+            "_id": "664115f68b8ae858750609a4",
+            "_tpl": "544a11ac4bdc2d470e8b456a",
+            "parentId": "664115f68b8ae858750609b3",
+            "slotId": "SecuredContainer"
+        }, {
+            "_id": "664115f68b8ae858750609b1",
+            "_tpl": "55d72a274bdc2de3098b456c",
+            "parentId": "664115f68b8ae858750609b3",
+            "slotId": "Pockets"
+        }, {
+			"_id": "664115f68b8ae85875060b39",
+			"_tpl": "5811ce572459770cba1a34ea"
+        }, {
+            "_id": "5fe49444ae6628187a2e78ba",
+            "_tpl": "5963866b86f7747bfa1c4462"
+        }, {
+            "_id": "5fe49444ae6628187a2e78b9",
+            "_tpl": "5963866286f7747bf429b572"
+        }, {
+            "_id": "60dca3da42ad9b706b369aca",
+            "_tpl": "602543c13fee350cd564d032"
+        }
+    ],
+    "questRaidItems": "5fe49444ae6628187a2e78b9",
+    "questStashItems": "5fe49444ae6628187a2e78ba",
+    "sortingTable": "60dca3da42ad9b706b369aca",
+    "stash": "664115f68b8ae85875060b39"
+}
