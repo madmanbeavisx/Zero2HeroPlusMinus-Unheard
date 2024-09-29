@@ -2,6 +2,14 @@
 Please visit [TheDevilsRevenge](https://hub.sp-tarkov.com/user/56003-thedevilsrevenge/) and give his other mods a look!
 
 Start with nothing, zero money, no trader rep, no skill headstart but does have The Unheard Edition (No Gamma, you do get an Alpha case though case) status.
+
+## Install instructions
+
+- Download latest release
+- Open the zip file and drag the user folder into your SPT folder
+- Startup SPT-Server and then you're client
+- Create a new profile and select "Joey's Zero to Hero ++ Unheard Edition"
+
 ## Please refer to the original documentation below.
 
 
