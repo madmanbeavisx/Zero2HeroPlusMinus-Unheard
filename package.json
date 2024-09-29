@@ -1,9 +1,9 @@
 {
-    "name": "Zero2Hero++ Unheard Editon",
+    "name": "Zero2Hero+- Unheard Editon",
     "version": "1.0.0",
     "main": "src/mod.js",
     "license": "MIT",
-    "author": "TheDevilsrevenge",
+    "author": "MadManBeavis",
     "sptVersion": "~3.9",
     "scripts": {
         "setup": "npm -i",
